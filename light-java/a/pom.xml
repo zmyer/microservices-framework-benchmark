@@ -142,7 +142,7 @@
         <dependency>
             <groupId>io.swagger</groupId>
             <artifactId>swagger-annotations</artifactId>
-            <version>${version.swagger-parser}</version>
+            <version>${version.swagger}</version>
         </dependency>
 
         <!-- Test Dependencies -->
